@@ -207,6 +207,4 @@ This project successfully implements a functional SIC assembler with complete Pa
 
 This project killed me. 
 
-```
-
 ---
